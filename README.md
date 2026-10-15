@@ -4,7 +4,7 @@ Official Android APK downloads for Xtream IPTV. This public repository contains 
 
 ## Downloads
 
-Download the signed [Xtream IPTV 0.2.0 APK and checksum](https://github.com/ajay-develops/xtream-iptv-releases/releases/tag/v0.2.0). The previous [0.1.0 device-test prerelease](https://github.com/ajay-develops/xtream-iptv-releases/releases/tag/v0.1.0-test.1) remains available. This GitHub APK release is separate from a Play Store launch.
+Download the signed [Xtream IPTV 0.2.2 APK and checksum](https://github.com/ajay-develops/xtream-iptv-releases/releases/tag/v0.2.2). Version 0.2.2 uses a new package ID, so it installs alongside earlier releases instead of updating them. Earlier builds remain available under [Releases](https://github.com/ajay-develops/xtream-iptv-releases/releases). This GitHub APK release is separate from a Play Store launch.
 
 ## Before installing
 
