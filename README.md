@@ -6,7 +6,7 @@ Official downloads for Xtream IPTV on Android and Smart TVs. This public reposit
 
 **Smart TVs (LG webOS, Samsung Tizen):** [Xtream IPTV 1.0.0 for Smart TVs](https://github.com/ajay-develops/xtream-iptv-releases/releases/tag/tv-v1.0.0). The LG `.ipk` installs on TVs in Developer Mode. The Samsung `.wgt` only installs on TVs listed in the publisher's certificate, so Samsung owners should install the app from the Samsung TV app store once it is approved.
 
-**Android:** download the signed [Xtream IPTV 0.2.2 APK and checksum](https://github.com/ajay-develops/xtream-iptv-releases/releases/tag/v0.2.2). Version 0.2.2 uses a new package ID, so it installs alongside earlier releases instead of updating them. Earlier builds remain available under [Releases](https://github.com/ajay-develops/xtream-iptv-releases/releases). This GitHub APK release is separate from a Play Store launch.
+**Android:** download the signed [Xtream IPTV 0.3.0 APK and checksum](https://github.com/ajay-develops/xtream-iptv-releases/releases/tag/v0.3.0). It adds *Add from your phone*, number keys and the Search key on Android TV, and updates 0.2.2 in place. Releases before 0.2.2 used an older package ID, so they install as a separate app; uninstall them after adding your sources to the new one. Earlier builds remain available under [Releases](https://github.com/ajay-develops/xtream-iptv-releases/releases). This GitHub APK release is separate from a Play Store launch.
 
 ## Before installing
 
